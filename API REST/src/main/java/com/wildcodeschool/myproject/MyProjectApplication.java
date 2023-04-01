@@ -1,4 +1,4 @@
-package com.wildcoceschool.myProject;
+package com.wildcodeschool.myproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
